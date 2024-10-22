@@ -10,6 +10,7 @@ export default function DemoPage(){
             <div>撤回后重新提交的</div>
             <div>提交撤回222</div>
             <div>再次提交</div>
+            <div>提交推送</div>
         </>
     )
 }
